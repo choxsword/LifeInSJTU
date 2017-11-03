@@ -9,3 +9,4 @@
 - [ ] 8号：小字二组的G,A在踩踏板的情况下经常弹不起来
 
 ## 琴房资料
+![image](https://github.com/choxsword/LifeInSJTU/blob/master/attachments/%E7%90%B4%E6%88%BF.jpg?raw=true)
